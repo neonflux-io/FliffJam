@@ -1,5 +1,4 @@
 # Environment variables
-.env
 
 # Python
 __pycache__/
@@ -27,7 +26,6 @@ wheels/
 *.egg
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -52,3 +50,5 @@ cache_data.json
 
 # Claude Code local config
 .claude/
+config.bat
+node_modules
